@@ -6,6 +6,9 @@ body{
 p {
     color: white;
 }
+.partnerOrgHolder a {
+ color:white;   
+}
 .home-top {
     background-image: url(../images/pickupmain.svg) !important;
     background-size: cover;
